@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3hDKYKkEFo2Jj7gUHaY8+X76/8Hk1swZ5g8F7B5Wrrg=",
+  "Source": "SrtWordListExtractor",
+  "BasePath": "_content/SrtWordListExtractor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
