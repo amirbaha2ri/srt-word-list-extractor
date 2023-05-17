@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SrtWordListExtractor",
+    "\\SrtWordListExtractor\\SrtWordListExtractor"
   ],
+  "SelectedNode": "\\SrtWordListExtractor\\SrtWordListExtractor.sln",
   "PreviewInSolutionExplorer": false
 }

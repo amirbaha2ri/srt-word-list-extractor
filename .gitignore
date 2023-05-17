@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/ref/SrtWordListExtractor.dll
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/refint/SrtWordListExtractor.dll
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SrtWordListExtractor.props
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SrtWordListExtractor.props
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/staticwebassets/msbuild.build.SrtWordListExtractor.props
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/staticwebassets.build.json
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.pdb
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.MvcApplicationPartsAssemblyInfo.cs
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.MvcApplicationPartsAssemblyInfo.cache
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.GlobalUsings.g.cs
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.genruntimeconfig.cache
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.GeneratedMSBuildEditorConfig.editorconfig
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.dll
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.csproj.FileListAbsolute.txt
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.csproj.CoreCompileInputs.cache
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.csproj.CopyComplete
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.csproj.BuildWithSkipAnalyzers
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.csproj.AssemblyReference.cache
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.assets.cache
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.AssemblyInfoInputs.cache
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/SrtWordListExtractor.AssemblyInfo.cs
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/apphost.exe
+/SrtWordListExtractor/SrtWordListExtractor/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
